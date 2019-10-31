@@ -7,4 +7,4 @@ It is a ReactNative slider for the #UXChallenge1 challenge and you can use it no
       onChangeComplete={(value)  =>  console.log('Complete: ',  value)}
 	/>
 # Demo
-![ReactNative Balloon Slider Demo](https://raw.githubusercontent.com/mohammad-goldast/react-native-balloon-slider/master/RN-Balloon-Slider-demo.gif =300x600)
+  <img src="https://s4.gifyu.com/images/RN-Balloon-Slider-demo.gif" width="350" alt="ReactNative Balloon Slider Demo">
