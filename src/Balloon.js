@@ -89,7 +89,7 @@ export default BalloonSlider = ({ onChange, onChangeComplete }) => {
         <View style={styles.sliderBox}>
           <Animated.View style={styles.balloonBox} {...balloonPosition.getLayout()}>
             <Animated.Image 
-              source={require('../balloon.png')} 
+              source={require('./assets/balloon.png')} 
               style={[styles.ballonStyle, {
                 transform: [{ rotateZ: getStatusOfSliding() }, { scale: balloonOpacityAndScaleValue }],
                 opacity: balloonOpacityAndScaleValue,

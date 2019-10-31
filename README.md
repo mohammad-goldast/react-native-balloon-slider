@@ -1,2 +1,2 @@
 # react-native-balloon-slider
-A react-native slider
+It is a ReactNative slider for the #UXChallenge1 challenge and you can use it now.
